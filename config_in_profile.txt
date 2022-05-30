@@ -1,4 +1,6 @@
-//////////ENG///////
+//////////ENG/////// 
+>>>>>>>>>config in the server profile folder in the Heli_sib folder<<<<<<<<<<<
+
 
 "duration": 0.05 , - rotor spin speed
 "Lift power": 1.5 , - air resistance level - for large helicopters there should be more
